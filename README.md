@@ -1,1 +1,1 @@
-# This hosts hands on tutorial for EPO activities at DTU2023.
+# This hosts hands on tutorials for EPO activities at DTU, 2023.
