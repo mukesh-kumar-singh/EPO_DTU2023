@@ -1,1 +1,1 @@
-# This hosts hands on tutorials for EPO activities at DTU, 2023.
+# This hosts hands on tutorials for LIGO-India EPO activities on gravitational-wave data analysis at DTU, 2023.
